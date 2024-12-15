@@ -1,0 +1,772 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241127131015_updateus\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127131015_updateus\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241119070613_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241119070613_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118080832_initcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118080832_initcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118055513_DBINIT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118060220_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118060220_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241211061037_cartitem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241211061037_cartitem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241212155551_blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212155551_blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241212145729_blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212145729_blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
+              "RelativeToolTip": "API_BackEnd\\Controllers\\UserController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:35:40.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserRepositori.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Repository\\UserRepositori.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs",
+              "RelativeToolTip": "API_BackEnd\\Repository\\UserRepositori.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAkwMQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T14:32:27.118Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
+              "RelativeToolTip": "API_BackEnd\\Controllers\\BlogsController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAkwB0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:09:52.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Repository\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs",
+              "RelativeToolTip": "API_BackEnd\\Repository\\BlogRepository.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwFsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:46:19.247Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BlogModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Model\\BlogModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs",
+              "RelativeToolTip": "API_BackEnd\\Model\\BlogModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:21:45.687Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "API_BackEnd\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAwCYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:59:00.05Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs",
+              "RelativeToolTip": "API_BackEnd\\Controllers\\CartItemController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwDgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:02:00.589Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Repository\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs",
+              "RelativeToolTip": "API_BackEnd\\Repository\\IBlogRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:46:01.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Helper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs",
+              "RelativeToolTip": "API_BackEnd\\Helper\\ApplicationMapper.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:23:25.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Data\\Blog.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs",
+              "RelativeToolTip": "API_BackEnd\\Data\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T01:27:37.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20241127131015_UpdateUs\u1EBB.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:10:15.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Repository\\ICartItemRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs",
+              "RelativeToolTip": "API_BackEnd\\Repository\\ICartItemRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:36:27.211Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Repository\\CartItemRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs",
+              "RelativeToolTip": "API_BackEnd\\Repository\\CartItemRepository.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAIkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:46:41.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "API_BackEnd\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:16:44.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Data\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs",
+              "RelativeToolTip": "API_BackEnd\\Data\\CartItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:06:09.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Model\\CartModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs",
+              "RelativeToolTip": "API_BackEnd\\Model\\CartModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:25:05.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ProductsModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Model\\ProductsModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs",
+              "RelativeToolTip": "API_BackEnd\\Model\\ProductsModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T01:53:52.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "API_BackEnd\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAqwCwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:54:18.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "20241214020606_blog7.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241214020606_blog7.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241214020606_blog7.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T02:06:06.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CartController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs",
+              "RelativeToolTip": "API_BackEnd\\Controllers\\CartController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAAAAB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:07:51.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Cart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Data\\Cart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs",
+              "RelativeToolTip": "API_BackEnd\\Data\\Cart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:02:30.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20241214014736_blog6.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241214014736_blog6.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241214014736_blog6.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-14T01:47:36.857Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20241212155551_Blog4.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T15:55:51.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "CartItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Model\\CartItemModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs",
+              "RelativeToolTip": "API_BackEnd\\Model\\CartItemModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:25:44.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Products.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Data\\Products.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs",
+              "RelativeToolTip": "API_BackEnd\\Data\\Products.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:41:02.125Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UsersModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Model\\UsersModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs",
+              "RelativeToolTip": "API_BackEnd\\Model\\UsersModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T07:12:02.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
+              "RelativeToolTip": "API_BackEnd\\Program.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T01:25:12.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20241212145729_Blog2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T14:57:29.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20241212021544_blog1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241212021544_blog1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241212021544_blog1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-12T02:15:45.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ApplicationUsers.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Data\\ApplicationUsers.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs",
+              "RelativeToolTip": "API_BackEnd\\Data\\ApplicationUsers.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T06:10:58.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Data\\category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs",
+              "RelativeToolTip": "API_BackEnd\\Data\\category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T01:54:20.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20241211061037_CartItem1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T06:10:37.374Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20241206020205_category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241206020205_category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241206020205_category.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-06T02:02:05.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Model\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs",
+              "RelativeToolTip": "API_BackEnd\\Model\\UpdateUserRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T13:09:23.853Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SignUpModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Model\\SignUpModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs",
+              "RelativeToolTip": "API_BackEnd\\Model\\SignUpModel.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T01:10:46.167Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20241127125113_updateuseraddress.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T12:51:13.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20241127012300_cartupdate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-27T01:23:00.587Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "20241126021235_edituser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241126021235_edituser.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241126021235_edituser.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:12:35.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20241125075102_user.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241125075102_user.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241125075102_user.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T07:51:02.458Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "API_BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json",
+              "RelativeToolTip": "API_BackEnd\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-18T05:47:04.521Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20241119070613_AddIdentityAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T07:06:13.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20241118150610_initcart2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T15:06:10.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20241118144416_initcart1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T14:44:16.414Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20241118081829_init.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118081829_init.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241118081829_init.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:18:29.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20241118080832_initCart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118080832_initCart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241118080832_initCart.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T08:08:32.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20241118060220_DBInit.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T06:02:20.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20241118055513_DBINIT.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
+              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
+              "RelativeToolTip": "API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-18T05:55:14.006Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
