@@ -50,7 +50,7 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCors(options =>
 {
     options.AddPolicy("AllowFrontend", policy =>
-        policy.WithOrigins("https://fullstack-front-end-qkt5.vercel.app/") // Địa chỉ frontend của bạn
+        policy.WithOrigins("https://fullstack-front-end-qkt5.vercel.app") // Địa chỉ frontend của bạn
               .AllowAnyHeader()
               .AllowAnyMethod());
 });
