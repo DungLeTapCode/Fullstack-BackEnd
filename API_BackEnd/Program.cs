@@ -49,8 +49,8 @@ builder.Services.AddSwaggerGen(c =>
 });
 builder.Services.AddCors(options =>
 {
-    options.AddDefaultPolicy(policy =>
-        policy.WithOrigins("https://fullstack-front-end-qkt5.vercel.app/") // Địa chỉ Vue.js
+    options.AddPolicy("AllowFrontend", policy =>
+        policy.WithOrigins("https://fullstack-front-end-qkt5.vercel.app/") // Địa chỉ frontend của bạn
               .AllowAnyHeader()
               .AllowAnyMethod());
 });
@@ -86,6 +86,7 @@ builder.Services.AddAuthentication(options =>
     };
 });
 var app = builder.Build();
+app.UseCors("AllowFrontend");
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())
@@ -96,7 +97,7 @@ if (app.Environment.IsDevelopment())
 
 
 app.UseHttpsRedirection();
-app.UseCors("DefaultPolicy"); ;
+; 
 
 app.UseAuthorization();
 
