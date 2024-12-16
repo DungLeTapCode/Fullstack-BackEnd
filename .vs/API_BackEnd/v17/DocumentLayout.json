@@ -3,199 +3,199 @@
   "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\API_BackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\api_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\api_backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\UserRepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\BlogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\BlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\BlogModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\CartItemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\model\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\IBlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Helper\\ApplicationMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\Blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\ICartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\data\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\CartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241127131015_updateus\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127131015_updateus\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\CartModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\ProductsModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\model\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\model\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241212155551_Blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\CartItemModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241212155551_blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212155551_blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\UsersModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\model\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\data\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241212145729_Blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\model\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\ApplicationUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241212145729_blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212145729_blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241211061037_CartItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\data\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\UpdateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241211061037_cartitem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241211061037_cartitem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\SignUpModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\model\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241119070613_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241119070613_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118080832_initCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118060220_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241118080832_initcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118080832_initcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\migrations\\20241118060220_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118060220_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -209,7 +209,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Dockerfile",
               "RelativeDocumentMoniker": "API_BackEnd\\Dockerfile",
@@ -217,8 +217,7 @@
               "RelativeToolTip": "API_BackEnd\\Dockerfile",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-12-16T03:09:34.585Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-16T03:09:34.585Z"
             },
             {
               "$type": "Document",
@@ -228,14 +227,14 @@
               "RelativeDocumentMoniker": "API_BackEnd\\API_BackEnd.csproj",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
               "RelativeToolTip": "API_BackEnd\\API_BackEnd.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-16T02:58:18.321Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\UserController.cs",
@@ -243,8 +242,7 @@
               "RelativeToolTip": "API_BackEnd\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-14T14:35:40.697Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-14T14:35:40.697Z"
             },
             {
               "$type": "Document",
@@ -788,7 +786,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "20241118055513_DBINIT.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
