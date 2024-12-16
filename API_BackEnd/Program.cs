@@ -85,6 +85,11 @@ builder.Services.AddAuthentication(options =>
 
     };
 });
+builder.WebHost.ConfigureKestrel(serverOptions =>
+{
+    serverOptions.ListenAnyIP(8080); // Lắng nghe trên cổng 8080
+});
+
 var app = builder.Build();
 app.UseCors("AllowFrontend");
 

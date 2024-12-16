@@ -205,20 +205,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "API_BackEnd.csproj",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
-              "RelativeDocumentMoniker": "API_BackEnd\\API_BackEnd.csproj",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
-              "RelativeToolTip": "API_BackEnd\\API_BackEnd.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-16T02:58:18.321Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 6,
@@ -275,10 +263,22 @@
               "RelativeDocumentMoniker": "API_BackEnd\\Program.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
               "RelativeToolTip": "API_BackEnd\\Program.cs",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAADQAAABHAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAowFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T01:25:12.847Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "API_BackEnd.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
+              "RelativeDocumentMoniker": "API_BackEnd\\API_BackEnd.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
+              "RelativeToolTip": "API_BackEnd\\API_BackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T02:58:18.321Z"
             },
             {
               "$type": "Document",
