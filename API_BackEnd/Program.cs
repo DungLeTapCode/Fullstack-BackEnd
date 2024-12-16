@@ -50,7 +50,7 @@ builder.Services.AddSwaggerGen(c =>
 builder.Services.AddCors(options =>
 {
     options.AddDefaultPolicy(policy =>
-        policy.WithOrigins("http://localhost:5173") // Địa chỉ Vue.js
+        policy.WithOrigins("https://fullstack-front-end-qkt5.vercel.app/") // Địa chỉ Vue.js
               .AllowAnyHeader()
               .AllowAnyMethod());
 });
@@ -96,7 +96,7 @@ if (app.Environment.IsDevelopment())
 
 
 app.UseHttpsRedirection();
-app.UseCors();
+app.UseCors("DefaultPolicy"); ;
 
 app.UseAuthorization();
 

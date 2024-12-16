@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj": {}
+    "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj": {
+    "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
+        "projectUniqueName": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
         "projectName": "API_BackEnd",
-        "projectPath": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
+        "projectPath": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
         "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\obj\\",
+        "outputPath": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\DELL\\AppData\\Roaming\\NuGet\\NuGet.Config",
