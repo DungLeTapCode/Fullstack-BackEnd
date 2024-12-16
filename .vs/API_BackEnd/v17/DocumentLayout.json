@@ -1,194 +1,201 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\API_BackEnd.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\UserController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\cartitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\UserRepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\BlogsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\blogmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\BlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\BlogModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\helper\\applicationmapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\ProductsController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241127131015_updateus\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127131015_updateus\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\CartItemController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\IBlogRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\iblogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Helper\\ApplicationMapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\cartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\Blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\icartitemrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\cartitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\ICartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\cartmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\CartItemRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\productsmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Repository\\IProductRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\CartItem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\cartcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\CartModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\ProductsModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\cartitemmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\AppDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\usersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Controllers\\CartController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\Cart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\applicationusers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241212155551_Blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\CartItemModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\updateuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\Products.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\model\\signupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\UsersModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241212145729_Blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241119070613_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241119070613_addidentityauthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241212021544_blog1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118080832_initcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118080832_initcart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\ApplicationUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118055513_DBINIT.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Data\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241211061037_CartItem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\UpdateUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241118060220_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241118060220_dbinit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Model\\SignUpModel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127125113_updateuseraddress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241127012300_cartupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241126021235_edituser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241206020205_category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241125075102_user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241211061037_cartitem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241211061037_cartitem1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241212155551_blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212155551_blog4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241212145729_blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241212145729_blog2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118150610_initcart2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241214020606_blog7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118144416_initcart1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\back-end\\api_backend\\api_backend\\migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\migrations\\20241214014736_blog6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118081829_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118080832_initCart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:API_BackEnd\\Migrations\\20241118060220_DBInit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -198,15 +205,41 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Dockerfile",
+              "RelativeDocumentMoniker": "API_BackEnd\\Dockerfile",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Dockerfile",
+              "RelativeToolTip": "API_BackEnd\\Dockerfile",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABYAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-16T03:09:34.585Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "API_BackEnd.csproj",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
+              "RelativeDocumentMoniker": "API_BackEnd\\API_BackEnd.csproj",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
+              "RelativeToolTip": "API_BackEnd\\API_BackEnd.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-16T02:58:18.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
               "RelativeToolTip": "API_BackEnd\\Controllers\\UserController.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAIEAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -215,11 +248,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "UserRepositori.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Repository\\UserRepositori.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs",
               "RelativeToolTip": "API_BackEnd\\Repository\\UserRepositori.cs",
               "ViewState": "AQIAAGoAAAAAAAAAAAAkwMQAAAA+AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -227,11 +260,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "BlogsController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\BlogsController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
               "RelativeToolTip": "API_BackEnd\\Controllers\\BlogsController.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAkwB0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -239,11 +272,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
               "Title": "BlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Repository\\BlogRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\BlogRepository.cs",
               "RelativeToolTip": "API_BackEnd\\Repository\\BlogRepository.cs",
               "ViewState": "AQIAAFAAAAAAAAAAAAAgwFsAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -251,11 +284,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "BlogModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Model\\BlogModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\BlogModel.cs",
               "RelativeToolTip": "API_BackEnd\\Model\\BlogModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -263,11 +296,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "ProductsController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\ProductsController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "API_BackEnd\\Controllers\\ProductsController.cs",
               "ViewState": "AQIAABQAAAAAAAAAAAAAwCYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -275,11 +308,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
               "Title": "CartItemController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\CartItemController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartItemController.cs",
               "RelativeToolTip": "API_BackEnd\\Controllers\\CartItemController.cs",
               "ViewState": "AQIAACcAAAAAAAAAAAAYwDgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -287,11 +320,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 10,
               "Title": "IBlogRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Repository\\IBlogRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IBlogRepository.cs",
               "RelativeToolTip": "API_BackEnd\\Repository\\IBlogRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -299,11 +332,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "ApplicationMapper.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Helper\\ApplicationMapper.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Helper\\ApplicationMapper.cs",
               "RelativeToolTip": "API_BackEnd\\Helper\\ApplicationMapper.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA2AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -311,11 +344,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 12,
               "Title": "Blog.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Data\\Blog.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Blog.cs",
               "RelativeToolTip": "API_BackEnd\\Data\\Blog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -323,11 +356,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "20241127131015_UpdateUs\u1EBB.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241127131015_UpdateUs\u1EBB.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -335,11 +368,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ICartItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Repository\\ICartItemRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\ICartItemRepository.cs",
               "RelativeToolTip": "API_BackEnd\\Repository\\ICartItemRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -347,11 +380,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "CartItemRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Repository\\CartItemRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\CartItemRepository.cs",
               "RelativeToolTip": "API_BackEnd\\Repository\\CartItemRepository.cs",
               "ViewState": "AQIAAAEAAAAAAAAAAAAAAIkAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -359,11 +392,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 16,
               "Title": "IProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Repository\\IProductRepository.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\IProductRepository.cs",
               "RelativeToolTip": "API_BackEnd\\Repository\\IProductRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -371,11 +404,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "CartItem.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Data\\CartItem.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\CartItem.cs",
               "RelativeToolTip": "API_BackEnd\\Data\\CartItem.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -383,11 +416,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "CartModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Model\\CartModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartModel.cs",
               "RelativeToolTip": "API_BackEnd\\Model\\CartModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAHAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -395,11 +428,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "ProductsModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Model\\ProductsModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\ProductsModel.cs",
               "RelativeToolTip": "API_BackEnd\\Model\\ProductsModel.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwBAAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -407,11 +440,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\AppDbContext.cs",
               "RelativeToolTip": "API_BackEnd\\Data\\AppDbContext.cs",
               "ViewState": "AQIAABYAAAAAAAAAAAAqwCwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -419,11 +452,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 21,
               "Title": "20241214020606_blog7.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241214020606_blog7.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214020606_blog7.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241214020606_blog7.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -431,11 +464,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 22,
               "Title": "CartController.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\CartController.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\CartController.cs",
               "RelativeToolTip": "API_BackEnd\\Controllers\\CartController.cs",
               "ViewState": "AQIAABcAAAAAAAAAAAAAAB8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -443,11 +476,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 23,
               "Title": "Cart.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Data\\Cart.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Cart.cs",
               "RelativeToolTip": "API_BackEnd\\Data\\Cart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -455,11 +488,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 24,
               "Title": "20241214014736_blog6.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241214014736_blog6.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241214014736_blog6.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241214014736_blog6.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -467,11 +500,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 25,
               "Title": "20241212155551_Blog4.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241212155551_Blog4.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -479,11 +512,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 26,
               "Title": "CartItemModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Model\\CartItemModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\CartItemModel.cs",
               "RelativeToolTip": "API_BackEnd\\Model\\CartItemModel.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -491,11 +524,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 27,
               "Title": "Products.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Data\\Products.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\Products.cs",
               "RelativeToolTip": "API_BackEnd\\Data\\Products.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAmwA8AAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -503,11 +536,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 28,
               "Title": "UsersModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Model\\UsersModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UsersModel.cs",
               "RelativeToolTip": "API_BackEnd\\Model\\UsersModel.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -515,11 +548,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 29,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
               "RelativeToolTip": "API_BackEnd\\Program.cs",
               "ViewState": "AQIAADAAAAAAAAAAAAAAAD4AAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -527,11 +560,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 30,
               "Title": "20241212145729_Blog2.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241212145729_Blog2.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -539,11 +572,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 31,
               "Title": "20241212021544_blog1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241212021544_blog1.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241212021544_blog1.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241212021544_blog1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -551,11 +584,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 32,
               "Title": "ApplicationUsers.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Data\\ApplicationUsers.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\ApplicationUsers.cs",
               "RelativeToolTip": "API_BackEnd\\Data\\ApplicationUsers.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAA0AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -563,11 +596,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 33,
               "Title": "category.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Data\\category.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Data\\category.cs",
               "RelativeToolTip": "API_BackEnd\\Data\\category.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -575,11 +608,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 34,
               "Title": "20241211061037_CartItem1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241211061037_CartItem1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -587,11 +620,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 35,
               "Title": "20241206020205_category.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241206020205_category.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241206020205_category.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241206020205_category.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -599,11 +632,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 36,
               "Title": "UpdateUserRequest.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Model\\UpdateUserRequest.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\UpdateUserRequest.cs",
               "RelativeToolTip": "API_BackEnd\\Model\\UpdateUserRequest.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -611,11 +644,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 37,
               "Title": "SignUpModel.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Model\\SignUpModel.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Model\\SignUpModel.cs",
               "RelativeToolTip": "API_BackEnd\\Model\\SignUpModel.cs",
               "ViewState": "AQIAAAUAAAAAAAAAAAAxwA4AAAAmAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -623,11 +656,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "20241127125113_updateuseraddress.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241127125113_updateuseraddress.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -635,11 +668,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "20241127012300_cartupdate.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241127012300_cartupdate.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -647,11 +680,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 40,
               "Title": "20241126021235_edituser.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241126021235_edituser.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241126021235_edituser.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241126021235_edituser.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -659,11 +692,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 41,
               "Title": "20241125075102_user.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241125075102_user.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241125075102_user.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241125075102_user.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -671,11 +704,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 42,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json",
               "RelativeDocumentMoniker": "API_BackEnd\\appsettings.json",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json",
               "RelativeToolTip": "API_BackEnd\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -683,11 +716,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 43,
               "Title": "20241119070613_AddIdentityAuthentication.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241119070613_AddIdentityAuthentication.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -695,11 +728,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 44,
               "Title": "20241118150610_initcart2.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241118150610_initcart2.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -707,11 +740,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 45,
               "Title": "20241118144416_initcart1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241118144416_initcart1.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAAwAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -719,11 +752,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 46,
               "Title": "20241118081829_init.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118081829_init.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118081829_init.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241118081829_init.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -731,11 +764,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 47,
               "Title": "20241118080832_initCart.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118080832_initCart.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118080832_initCart.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241118080832_initCart.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -743,11 +776,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 48,
               "Title": "20241118060220_DBInit.cs",
-              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
-              "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
+              "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
               "RelativeToolTip": "API_BackEnd\\Migrations\\20241118060220_DBInit.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -755,12 +788,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 3,
               "Title": "20241118055513_DBINIT.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
-              "RelativeDocumentMoniker": "API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
-              "RelativeToolTip": "API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
+              "RelativeToolTip": "..\\..\\..\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-18T05:55:14.006Z"
             }
