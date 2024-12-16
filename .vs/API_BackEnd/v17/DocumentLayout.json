@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -28,10 +32,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\repository\\userrepositori.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|solutionrelative:api_backend\\controllers\\blogscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E2D779E2-D20F-403E-A54A-41B3246D6E86}|API_BackEnd\\API_BackEnd.csproj|c:\\users\\dell\\desktop\\fullstack-vuejs-api\\back-end\\api_backend\\api_backend\\repository\\blogrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -209,7 +209,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserRepositori.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Repository\\UserRepositori.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Repository\\UserRepositori.cs",
@@ -221,15 +221,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "BlogsController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\BlogsController.cs",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\BlogsController.cs",
               "RelativeToolTip": "API_BackEnd\\Controllers\\BlogsController.cs",
-              "ViewState": "AQIAABYAAAAAAAAAAAAkwB0AAAARAAAA",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwB0AAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-12T15:09:52.472Z"
+              "WhenOpened": "2024-12-12T15:09:52.472Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -251,14 +252,14 @@
               "RelativeDocumentMoniker": "API_BackEnd\\appsettings.json",
               "ToolTip": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\appsettings.json",
               "RelativeToolTip": "API_BackEnd\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAfAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2024-11-18T05:47:04.521Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Program.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Program.cs",
@@ -270,7 +271,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "API_BackEnd.csproj",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\API_BackEnd.csproj",
               "RelativeDocumentMoniker": "API_BackEnd\\API_BackEnd.csproj",
@@ -282,7 +283,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "API_BackEnd\\Controllers\\UserController.cs",
@@ -294,7 +295,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dockerfile",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Fullstack-VueJS-API\\Back-End\\API_BackEnd\\API_BackEnd\\Dockerfile",
               "RelativeDocumentMoniker": "API_BackEnd\\Dockerfile",
@@ -786,7 +787,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "20241118055513_DBINIT.cs",
               "DocumentMoniker": "C:\\Users\\DELL\\Desktop\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\Back-End\\API_BackEnd\\API_BackEnd\\Migrations\\20241118055513_DBINIT.cs",
